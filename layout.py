@@ -19,7 +19,7 @@ size = width, height = 600, 400
 screen = pygame.display.set_mode(size)
 
 # Fonts
-OPEN_SANS = "assert/font/OpenSans-Regular.ttf"
+OPEN_SANS = "OpenSans-Regular.ttf"
 smallFont = pygame.font.Font(OPEN_SANS, 20)
 largeFont = pygame.font.Font(OPEN_SANS, 40)
 
